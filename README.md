@@ -10,6 +10,6 @@
 
 ## Cài đặt
 ```bash
-git clone https://github.com/your-username/iot-ids-lightweight-dl.git](https://github.com/QiTrw/LVTN_iot-ids
+git clone https://github.com/QiTrw/LVTN_iot-ids.git
 cd iot-ids-lightweight-dl
 pip install -r requirements.txt
